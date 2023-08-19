@@ -1,0 +1,10 @@
+server:
+  port: 30602
+
+# spring 配置
+spring:
+  application:
+    name: alinesno-infra-plat-brain-boot
+  devtools:
+    restart:
+      enabled: true
